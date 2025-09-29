@@ -43,8 +43,8 @@ The project includes **data preprocessing, exploratory data analysis (EDA), mode
 ## Installation & Running the Notebook
 1. Clone the repository:
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/codeswa1/Credit-Card-Fraud-Detection.git
+cd Credit-Card-Fraud-Detection
 ```
 2. Install dependencies:
 ```bash
